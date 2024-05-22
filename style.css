@@ -1,0 +1,159 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contanier {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.ota {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.ulo {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    list-style: none;
+}
+
+.ulo li:hover {
+    color: hotpink;
+}
+
+header button {
+    padding: 8px;
+    color: hotpink;
+    border: 2px solid hotpink;
+    background-color: white;
+    border-radius: 9px;
+}
+
+header button:hover {
+    background-color: hotpink;
+    color: white;
+    border: 2px solid white;
+    border-radius: 9px;
+}
+
+.ota2 {
+    margin: 20px;
+    align-items: center;
+    display: flex;
+}
+
+.ota2 button {
+    padding: 8px;
+    color: hotpink;
+    border: 2px solid hotpink;
+    background-color: white;
+    border-radius: 9px;
+}
+
+.ota2 button:hover {
+    background-color: hotpink;
+    color: white;
+    border: 2px solid white;
+    border-radius: 9px;
+}
+
+.hero {
+    background-image: url("./img/image\ 4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hero2 h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 50px;
+}
+
+.kichkina2 {
+    display: flex;
+}
+
+.kichkina22 {
+    margin-left: 50px;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.kichkina22 h2 {
+    margin-bottom: 20px;
+}
+
+
+.hero3 {
+    background-image: url("./img/cta.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+    margin-top: 200px;
+    height: 730px;
+    position: relative;
+    height: auto;
+    padding-top: 50px;
+}
+
+.ota4 {
+    display: flex;
+    column-gap: 115px;
+    margin-top: 100px;
+    position: absolute;
+    top: -250px;
+    left: 0px;
+}
+
+.ota4 img {
+    
+}
+
+.katta {
+    background-color: white;
+    padding: 30px;
+
+}
+
+.katta input {
+    padding: 8px;
+}
+
+.katta button {
+    padding: 8px;
+    color: hotpink;
+    border: 2px solid hotpink;
+    background-color: white;
+    border-radius: 9px;
+}
+
+.katta button:hover {
+    background-color: hotpink;
+    color: white;
+    border: 2px solid white;
+    border-radius: 9px;
+}
+
+.katta4 {
+    display: flex;
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    margin-top: 200px;
+}
+.hero4{
+    background-color: black;
+    color: white;
+}
+.ota5{
+    display: flex;
+    gap: 400px;
+}
+
